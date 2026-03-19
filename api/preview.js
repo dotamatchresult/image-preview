@@ -21,7 +21,7 @@ module.exports = (req, res) => {
   <meta name="twitter:card" content="summary_large_image" />
 </head>
 <body>
-  <p>Loading preview...</p>
+  <img src="${imageUrl}" alt="Dota Match MVP Result" style="width:100%;height:auto;max-width:600px;" />
 </body>
 </html>`;
 
